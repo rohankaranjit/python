@@ -16,7 +16,7 @@ def calculate_damage(damage, speed, time_unit):
 # Examples
 print(calculate_damage(40, 5, "second"))  # ➞ 200
 print(calculate_damage(100, 1, "minute"))  # ➞ 6000
-print(calculate_damage(2, 100, "hour"))  # ➞ 720000def calculate_damage(damage, speed, time_unit):
+print(calculate_damage(2, 100, "hour"))  
     time_units_in_seconds = {
         "second": 1,
         "minute": 60,
