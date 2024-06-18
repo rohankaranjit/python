@@ -33,5 +33,5 @@ print(calculate_damage(2, 100, "hour"))
 
 # Examples
 print(calculate_damage(40, 5, "second"))  
-print(calculate_damage(100, 1, "minute"))  # ➞ 6000
+print(calculate_damage(100, 1, "minute"))  
 print(calculate_damage(2, 100, "hour"))  
