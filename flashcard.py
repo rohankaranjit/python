@@ -17,3 +17,10 @@ while(True):
      
     flash.append(flashcard(word, meaning))
     option = int(input("enter 0 , if you want to add another flashcard : "))
+    if(option):
+        break
+         
+# printing all the flashcards 
+print("\nYour flashcards")
+for i in flash:
+    print(">", i)
