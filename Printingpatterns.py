@@ -1,5 +1,5 @@
 def halfDiamondStar(N): 
-          # diamond pattern 
+
     for i in range(N): 
   
         for j in range(0, i + 1): 
