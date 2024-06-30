@@ -13,7 +13,7 @@ def halfDiamondStar(N):
             print("*", end = "") 
         print() 
   
-# Driver Code 
+
 N = 5; 
   
 # Function Call 
