@@ -1,7 +1,3 @@
-# half diamond star pattern 
-  
-# Function to print the 
-# half diamond star pattern 
 def halfDiamondStar(N): 
       
     # Loop to print the upper half 
