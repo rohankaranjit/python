@@ -16,4 +16,5 @@ def halfDiamondStar(N):
 
 N = 5; 
   
-# Function Call 
+halfDiamondStar(N); 
+   
