@@ -6,7 +6,6 @@ def halfDiamondStar(N):
             print("*", end = "") 
         print() 
   
-    # Loop to print 
     # diamond pattern 
     for i in range(1, N): 
   
