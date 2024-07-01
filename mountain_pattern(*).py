@@ -6,6 +6,6 @@ def full_pyramid(n):
             print(" ", end="")
                    for k in range(1, 2*i):
                     print("*", end="")
-        print()
+                    print()
    
 full_pyramid(5)
