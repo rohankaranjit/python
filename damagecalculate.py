@@ -4,8 +4,7 @@ def calculate_damage(damage, speed, time_unit):
         "minute": 60,
         "hour": 3600
     }
-    
-    if time_unit not in time_units_in_seconds:
+        if time_unit not in time_units_in_seconds:
         return "Invalid time unit"
     
     total_seconds = time_units_in_seconds[time_unit]
