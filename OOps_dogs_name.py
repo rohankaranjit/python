@@ -6,7 +6,6 @@ class Dog:
         self.name = name
     def speak(self):
         print("My name is {}".format(self.name))
-
 # Object instantiation
 Rodger = Dog("Rodger")
 Tommy = Dog("Tommy")
