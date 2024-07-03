@@ -1,5 +1,4 @@
 class Dog:
-
     # class attribute
     attr1 = "mammal"
 
