@@ -4,8 +4,7 @@ class Dog:
     # Instance attribute
     def __init__(self, name):
         self.name = name
-        
-    def speak(self):
+            def speak(self):
         print("My name is {}".format(self.name))
 
 # Object instantiation
