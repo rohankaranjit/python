@@ -9,7 +9,6 @@ class Dog:
 # Object instantiation
 Rodger = Dog("Rodger")
 Tommy = Dog("Tommy")
-
 # Accessing class methods
 Rodger.speak()
 Tommy.speak()
