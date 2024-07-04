@@ -9,3 +9,10 @@ def join_string(list_string):
 	
 	return string
 
+if __name__ == '__main__':
+	string = 'Rohan for Karanjit'
+	
+
+
+
+
