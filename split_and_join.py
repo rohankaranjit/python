@@ -12,6 +12,9 @@ def join_string(list_string):
 if __name__ == '__main__':
 	string = 'Rohan for Karanjit'
 	
+	# Splitting a string
+	list_string = split_string(string)
+	print(list_string)
 
 
 
