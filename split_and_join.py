@@ -17,5 +17,9 @@ if __name__ == '__main__':
 	print(list_string)
 
 
+	# Join list of strings into one
+	new_string = join_string(list_string)
+	print(new_string)
+
 
 
