@@ -26,7 +26,6 @@ def findLen(str):
 		counter += 1
 	return counter
 
-
 str = "rohan"
 print(findLen(str))
 
