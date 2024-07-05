@@ -19,9 +19,6 @@ def findLen(str):
 str = "rohan"
 print(findLen(str))
 
-# Python code to demonstrate string length 
-# using for loop
-
 # Returns length of string
 def findLen(str):
 	counter = 0
