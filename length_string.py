@@ -9,6 +9,7 @@ def findLen(str):
 str = "rohan"
 print(findLen(str))
 
+
 # Returns length of string
 def findLen(str):
     counter = 0
