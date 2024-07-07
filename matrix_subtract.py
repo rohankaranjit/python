@@ -14,3 +14,6 @@ print("Printing elements of second matrix")
 print(B)
 
 
+# subtracting two matrix
+print("Subtraction of two matrix")
+print(np.subtract(A, B))
