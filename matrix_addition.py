@@ -11,4 +11,7 @@ print(A)
 print("Printing elements of second matrix")
 print(B)
 
+# adding two matrix
+print("Addition of two matrix")
+print(np.add(A, B))
 
