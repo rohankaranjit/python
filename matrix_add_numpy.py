@@ -14,5 +14,9 @@ print (numpy.subtract(x,y))
 print ("The element wise multiplication of matrix is : ")
 print (numpy.multiply(x,y))
 
+# using divide() to divide matrices
+print ("The element wise division of matrix is : ")
+print (numpy.divide(x,y))
+
 
 
