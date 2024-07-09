@@ -10,7 +10,6 @@ print (numpy.add(x,y))
 print ("The element wise subtraction of matrix is : ")
 print (numpy.subtract(x,y))
 
-
 print ("The element wise multiplication of matrix is : ")
 print (numpy.multiply(x,y))
 
