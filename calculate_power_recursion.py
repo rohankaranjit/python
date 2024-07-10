@@ -1,8 +1,6 @@
 # Recursive function to find N^P.
 def power(N, P):
  
-    # only then it will enter it,
-    # otherwise not
     if P == 0:
         return 1
  
