@@ -10,8 +10,7 @@ def power(N, P):
  
     # Recurrence relation
     return (N*power(N, P-1))
- 
-# Driver code
+ # Driver code
 if __name__ == '__main__':
     N = 5
     P = 2
