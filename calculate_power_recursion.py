@@ -14,5 +14,4 @@ def power(N, P):
 if __name__ == '__main__':
     N = 5
     P = 2
- 
-    print(power(N, P))
+     print(power(N, P))
