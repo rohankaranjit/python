@@ -3,7 +3,6 @@
 
 
 
-
 # pairing each 1st col with next rows in Matrix
 res = {test_list[0][ele] :  test_list[ele + 1] for ele in range(len(test_list) - 1)}
  
