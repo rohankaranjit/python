@@ -6,7 +6,6 @@ def inverted_full_pyramid(n):
             print("*", end="")
         print("")
         n = 5
-
 # Call the function to print the inverted full pyramid
 inverted_full_pyramid(n)
 
