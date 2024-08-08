@@ -1,5 +1,4 @@
 
-
 def inverted_full_pyramid(n):
     for i in range(n, 0, -1):
 
