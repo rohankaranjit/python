@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 def calculate_damage(damage, speed, time_unit):
     time_units_in_seconds = {
         "second": 1,
