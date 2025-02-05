@@ -1,6 +1,5 @@
 
 
-
 # Recursive function to find N^P.
 def power(N, P):
      if P == 0:
